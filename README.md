@@ -1,4 +1,4 @@
-# micreoservice-golang
+# microservice-golang
 Microservices using Go and Docker
 
 Task: Microservices
