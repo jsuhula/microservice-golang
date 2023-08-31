@@ -9,4 +9,4 @@ Analisis de Sistemas
 
 # Build Docker Service:
 <br> docker build --tag goservice .
-<br> docker run -it --rm -p 8082:8081 --name myserice goservice
+<br> docker run -it --rm -p 8082:8081 --name myservice goservice
