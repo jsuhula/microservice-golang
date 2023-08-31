@@ -4,7 +4,7 @@ Microservices using Go and Docker
 Task: Microservices
 Analisis de Sistemas
 
-#Test Go:
+# Build Go:
 <br> go run main.go
 
 # Build Docker Service:
